@@ -1,0 +1,4 @@
+Player "Earlybear" has made a new transaction for game "Disney Dreamlight VAlley" on the "2023-07-03" for "10" Eur
+Player "Silverbullets" has made a new transaction for game "Disney Dreamlight VAlley" on the "2022-06-15" for "15" Eur
+Player "Silverbullets" has made a new transaction for game "Disney Dreamlight VAlley" on the "2022-09-19" for "4.5" Eur
+Player "Silverbullets" has made a new (refundable) transaction for game "Dragon Mania Legends" on the "2019-03-01" for "3" Eur

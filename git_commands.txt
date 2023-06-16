@@ -1,0 +1,6 @@
+1. git clone "repo link https or ssh"
+2. git branch my_awesome_feature
+3. git checkout my_awesome_feature && git add -A && git commit -m"initial version" && git push
+4. git push origin my_awesome_feature
+5. git checkout master && git merge my_awesome_feature
+6. git push origin master
